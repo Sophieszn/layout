@@ -11,7 +11,7 @@ body{
 
 .maindiv{
     margin-left: 25%; margin-right: 25%;
-    width:1440px;
+    width:1000px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,9 +19,9 @@ body{
 }
 
 .div1, .div2, .div3{
-    /* width: 33.33%; */
+    width: 33.33%;
     padding-left: 5%; padding-right: 5%;
-    height: 30vh;
+    height: 80vh;
 }
 
 .div1{
